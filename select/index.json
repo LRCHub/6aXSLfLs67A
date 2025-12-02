@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "化けの花",
+  "base_artist": "なきそ",
+  "createdAt": "2025-12-02T11:18:23.738270Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "化けの花",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/01_化けの花_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "化けの花 (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&KAITO)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/02_化けの花_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&KAITO)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "化けの花 -instrumental-",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/03_化けの花_-instrumental-_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "化けの花 (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&KAITO)\u001f化けの花 (feat. 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希 & KAITO)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/04_化けの花_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&KAITO)_化けの花_(feat._宵崎奏,_朝比奈まふゆ,_東雲絵名,_暁山瑞希_&_KA_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "化けの花",
+      "artist": "NAKISO",
+      "has_synced": true,
+      "path": "select/05_化けの花_NAKISO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "化けの花",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&KAITO",
+      "has_synced": true,
+      "path": "select/06_化けの花_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&KAITO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "化けの花",
+      "artist": "なきそ",
+      "has_synced": false,
+      "path": "select/pl_01_化けの花_なきそ.txt"
+    }
+  ]
+}
